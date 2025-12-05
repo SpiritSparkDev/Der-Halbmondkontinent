@@ -1,0 +1,1 @@
+Eine genaue Aussage darüber zu treffen, was Chaos ist, ist nahezu unmöglich. Jedes Ebene der Existenz wird von Chaos berührt. Er ist der Anfang und er wird einmal das Ende von allem sein. Chaos viel mehr als eine Gottheit, was für viele nur schwer zu begreifen ist. In heiligen Schriften wird Chaos auch der Gott des Unendlichen genannt. 

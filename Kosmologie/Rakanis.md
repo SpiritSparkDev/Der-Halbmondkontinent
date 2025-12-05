@@ -1,0 +1,2 @@
+Die Stadt der [[Nahili]] wird von [[Frostriesen]] bewohnt, den Töchtern und Söhnen der Nahili. Sie sind ihrer Göttin und Mutter treu ergeben und warten darauf, gegen [[Phönix]] zu marschieren.
+Die Stadt wird durch eine Monarchie regiert, deren Ränke und Streitigkeiten innerhalb der Familie und auch mit anderen Adelsgeschlechtern von Rakanis denen der Menschen nicht unähnlich sind.

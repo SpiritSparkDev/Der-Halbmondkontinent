@@ -1,0 +1,1 @@
+[[Lilia]]s Höhlen, in die sie die Seelen der Verstorbenen bringt, von wo aus sie in den schwarzen Ozean aufbrechen, sind ein ständig wandelndes Labyrinth, in dem es als Lebender unmöglich ist, sich zurecht zu finden. Nur die Toten kennen die Wege durch die Höhlen und zu Lilias Stadt, der namenlosen [[Necropole]], der sie persönlich vorsteht. 

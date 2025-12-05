@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "4855a2e4fe4b3f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae4ac893b9efe11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceddfdd910a224f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kosmologie/Ethyos - Der Nabel der Realität.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethyos - Der Nabel der Realität"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e94c3e1268ba6fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a516f33026c80b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d46d5650b630f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "f6c5da940867e9aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "e706320ba9beea22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ea55258dd9c69d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "86059f63f420c177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847c2a43963cc1c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kosmologie/Ethyos - Der Nabel der Realität.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Ethyos - Der Nabel der Realität"
+            }
+          },
+          {
+            "id": "46021687723fc919",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kosmologie/Ethyos - Der Nabel der Realität.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Ethyos - Der Nabel der Realität öffnen"
+            }
+          },
+          {
+            "id": "aa7caa0cc110808a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5a178ea913cf76b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "4ba6a66dd957cac9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kosmologie/Ethyos - Der Nabel der Realität.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Ethyos - Der Nabel der Realität"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ceddfdd910a224f7",
+  "lastOpenFiles": [
+    "Kosmologie/Phönix-Nest.md",
+    "Kosmologie/Die Weltenkugel.md",
+    "Thronstadt St. Jezma.md",
+    "Menschen.md",
+    "Politik/Die Stadtstaaten des Südens.md",
+    "Politik/Sternhaf.md",
+    "Politik/Viromeer.md",
+    "Der-Halbmondkontinent",
+    "Politik/Tredanien.md",
+    "Kosmologie/Traumwelt.md",
+    "Kosmologie/Totenhöhlen.md",
+    "Kosmologie/Rakanis.md",
+    "Kosmologie/Ethyos - Der Nabel der Realität.md",
+    "Kosmologie/Die Necropole.md",
+    "Kosmologie/Der schwarze Ozean.md",
+    "Kosmologie/Chaos.md",
+    "Geografie/Thedos.md",
+    "Geografie/Landmassen.md",
+    "Der Halbmondkontinent.md",
+    "Politik",
+    "Geografie",
+    "Kosmologie"
+  ]
+}
