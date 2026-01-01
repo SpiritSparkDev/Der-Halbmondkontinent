@@ -1,2 +1,2 @@
-Obwohl die Menschen nur ihren Heimatkontinent [[Thedos]] kennen, haben Expeditionen die Existenz zwei weiterer Landmassen beweisen können: [[Megur]] und [[Keatu]]. Auf Megur und Keatu hat die Zivilisation, bis auf wenige Siedlungen und Kolonien, nie richtig Fuß fassen können.
+Obwohl die [[Menschen]] nur ihren Heimatkontinent [[Thedos]] kennen, haben Expeditionen die Existenz zwei weiterer Landmassen beweisen können: [[Megur]] und [[Keatu]]. Auf Megur und Keatu hat die Zivilisation, bis auf wenige Siedlungen und Kolonien, nie richtig Fuß fassen können.
 Diese geradezu lebensfeindlichen Landstriche sind bewohnt von Monstern und den bösartigsten Kreaturen. Die Sommer können in Megur gnadenlos heiß sein und es heißt, die Winter in südlichen Keatu hören niemals auf.

@@ -1,1 +1,1 @@
-Das Phönixnest, die Sonne, ist die Heimat und das Exil des Sonnengottes Phönix. Es ist ein Reich des Feuers, in der kein Sterblicher überleben könnte. Das Nest besteht aus Lava und bildet durch immerwährende Ströme ein konisches Zentrum, in dem Phönix schläft.
+Das Phönixnest, die Sonne, ist die Heimat und das Exil des Sonnengottes [[Phönix]]. Es ist ein Reich des Feuers, in der kein Sterblicher überleben könnte. Das Nest besteht aus Lava und bildet durch immerwährende Ströme ein konisches Zentrum, in dem [[Phönix]] schläft.

@@ -1,1 +1,1 @@
-Der schwarze Ozean ist das Reich von [[Nahili]], der Göttin der Nacht und des Winters. Der schwarze Ozean ist für die Menschen das Reich der Toten. Er ist endlos und nahezu leer. Nur die Stadt der Nahili, “[[Rakanis]]”, treibt lautlos durch den schwarzen Ozean. 
+Der schwarze Ozean ist das Reich von [[Nahili]], der Göttin der Nacht und des Winters. Der schwarze Ozean ist für die [[Menschen]] das Reich der Toten. Er ist endlos und nahezu leer. Nur die Stadt der [[Nahili]], “[[Rakanis]]”, treibt lautlos durch den schwarzen Ozean. 

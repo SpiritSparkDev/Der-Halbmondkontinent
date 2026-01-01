@@ -1,0 +1,5 @@
+- Zweite Gottheit des [[Chaos]]
+- Schwester und Widersacherin des [[Phönix]]
+- Mutter von [[Praetor]], [[Thumos]], [[Zymia]]
+- Göttin der Nacht, Dunkelheit und Auslöschung
+- Herrin der [[Eisriesen]]

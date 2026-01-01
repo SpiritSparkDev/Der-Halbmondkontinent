@@ -1,0 +1,8 @@
+- Göttin des Meeres
+- Weitere Domänen
+	- Wasser
+	- Eis / Kälte
+	- Nacht
+- Schwester-Gemahlin von [[Phönix]]
+- Schwan als Botentier
+- Mutter von [[Atkari]], [[Leras]] und [[Mesis]]

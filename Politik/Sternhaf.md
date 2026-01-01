@@ -11,7 +11,7 @@ Die Bewohner von Sternhaf sind für ihre bunte und auffällige Kleidung bekannt.
 Sternhaf genießt den Ruf einer weltoffenen Metropole. Als einziger Stadtstaat handelt Sternhaf offen mit allen und jedem – unabhängig von Herkunft oder Volk. In kaum einer anderen Stadt leben [[Menschen]] und [[Anderlinge]] so dicht an dicht wie in Sternhaf – und das friedlich... meistens. Diese Toleranz macht die Stadt zu einem Schmelztiegel der Kulturen und einem sicheren Hafen für jene, die anderswo nicht willkommen sind.
 ## Wirtschaft und Handel
 ### Handelszentrum
-Als wichtigster Knotenpunkt für den Seehandel zwischen Nord und Süd sowie Ost und West ist Sternhaf unverzichtbar für den Austausch von Waren. Hier kommen alle Waren aus dem Norden und Tredanien an, die über den Seeweg nach Süden oder Westen sollen. Die Stadt ist so ziemlich die einzige, in der tredanische und ausländische Waren frei getauscht werden können.
+Als wichtigster Knotenpunkt für den Seehandel zwischen Nord und Süd sowie Ost und West ist Sternhaf unverzichtbar für den Austausch von Waren. Hier kommen alle Waren aus dem Norden und [[Tredanien]] an, die über den Seeweg nach Süden oder Westen sollen. Die Stadt ist so ziemlich die einzige, in der tredanische und ausländische Waren frei getauscht werden können.
 ### Die Werften
 Sternhaf ist berühmt für seine Werften, die zu den besten der bekannten Welt zählen. Hier werden Handelsschiffe, Kriegsschiffe und innovative neue Schiffstypen gebaut, die die Überlegenheit der Stadt auf dem Meer sichern.
 ### Arcano-technische Forschung
@@ -22,5 +22,5 @@ Der größte Triumph der Sternhafener Alchemisten war die Entdeckung des Schieß
 Seit der Entdeckung des Schießpulvers zieren mächtige Kanonen die Stadtmauern von Sternhaf. Die Stadtwache ist mit Musketen bewaffnet – eine Seltenheit in der bekannten Welt und ein deutliches Zeichen für die technologische Überlegenheit der Stadt. Diese Bewaffnung macht Sternhaf praktisch uneinnehmbar und hat maßgeblich dazu beigetragen, die Unabhängigkeit der Stadt zu wahren.
 ## Politik und Herrschaft
 Sternhaf steht unter der Kontrolle des rätselhaften Rion, der die Stadt seit dem Aufstand regiert. Wie genau er an die Macht kam und welche Ziele er verfolgt, bleibt Spekulation. Seine Herrschaft ist jedoch stabil, und unter seiner Führung hat sich Sternhaf zu einer der wohlhabendsten und einflussreichsten Städte entwickelt.
-## Bedeutung für Verim
-Als Brücke zwischen Tredanien und den westlichen Königreichen sowie als Zentrum für Innovation und Handel spielt Sternhaf eine zentrale Rolle in der Politik und Wirtschaft von Verim. Die Stadt ist ein Symbol für Freiheit, Fortschritt und die Möglichkeit friedlichen Zusammenlebens verschiedener Völker – eine Seltenheit in einer Welt, die oft von Krieg und Vorurteilen geprägt ist.
+## Bedeutung für [[Verim]]
+Als Brücke zwischen [[Tredanien]] und den westlichen Königreichen sowie als Zentrum für Innovation und Handel spielt Sternhaf eine zentrale Rolle in der Politik und Wirtschaft von [[Verim]]. Die Stadt ist ein Symbol für Freiheit, Fortschritt und die Möglichkeit friedlichen Zusammenlebens verschiedener Völker – eine Seltenheit in einer Welt, die oft von Krieg und Vorurteilen geprägt ist.

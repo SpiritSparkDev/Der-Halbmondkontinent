@@ -1,0 +1,8 @@
+- Erste Gottheit des [[Chaos]]
+- Sonnengott
+- Weitere Domänen
+	- Feuer
+	- Erneuerung
+	- Leben
+	- Tag
+- Rotmilan als Botentier
