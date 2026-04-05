@@ -438,3 +438,5 @@ Manche glauben, die Elfenzeit sei vorbei. Andere glauben an eine Rückkehr – w
 Und dann gibt es jene, die flüstern: "Wenn wir nur wieder in die Traumlande gelangen könnten... wenn die Erbsünde vergeben würde... dann würden wir wieder zu dem, was wir einst waren."
 
 Aber niemand weiß, wie.
+# Berühmte Elfen
+Die Erzmagierin von Eisensteig [[Rylia]].

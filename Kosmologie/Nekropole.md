@@ -1,0 +1,7 @@
+[[Lilia]]s Stadt ist der Ort, an dem alle Seelen irgendwann landen werden. Die Stadt, welche tief im schwarzen Ozean treibt, gleicht in ihrem Aufbau einer Doppelpyramide, umgeben von einem See, der zwei Oberflächen hat. 
+Der “obere” Abschnitt der Pyramide beherbergt unter anderem die Residenz von Lilia, den [[Palast der Vorväter]] und [[Hafen der Seelen]], dem einzigen Ausgang aus der Stadt.
+Dieser Teil der Stadt ist erfüllt von Licht und die Seelen guter Kreaturen wandeln hier umher, ohne Sorgen oder Mangel. 
+Der “untere” Abschnitt ist reserviert für die Missetäter und Halunken. Hier sind haben sie das zweifelhafte Vergnügen immer weiter das zu tun, was sie zu Lebzeiten schon getan haben. Sie Rauben, Morden und Misshandeln - mit dem Unterschied, dass es hier wohl nie den Falschen trifft. 
+Doch nicht einmal der Tod ist für immer. 
+Da nur ihr eigener Wille zu existieren eine Seele in der Stadt hält, löst sie sich auf, wenn sie auch den verloren haben. Manche, die sich an das Leben klammerten, bleiben Jahrhunderte in der Stadt. Andere, die zufrieden mit ihrem Leben waren und zufrieden starben, bleiben nur einige Monate. 
+Danach wandern die Überreste der Seelen durch den schwarzen Ozean zurück zu [[Phönix]], wo sie in Form von Feuer sein Nest wärmen. Irgendwann schickt er sie wiederum als Sonnenschein zurück nach [[Verim]].

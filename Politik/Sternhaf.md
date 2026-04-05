@@ -1,4 +1,5 @@
 Sternhaf ist eine pulsierende Hafenstadt und einer der vier südlichen Stadtstaaten. Die Stadt liegt strategisch günstig am Meer und bildet den wichtigsten Umschlagplatz für den Handel zwischen [[Tredanien]] und den westlichen Königreichen. Sternhaf ist bis unter die Decke vollgestopft mit arcano-technischer Forschung und gilt als Zentrum für Innovation und Fortschritt.
+![[Sternhaf_1764302982_697.jpg]]
 ## Geschichte
 ### Die Besatzungszeit
 Jahrhundertelang litt Sternhaf unter tredanischer Besatzung. Die Stadt wurde von Besatzungstruppen regiert, die mit eiserner Hand über die Bevölkerung herrschten. Diese dunkle Periode endete auf mysteriöse und brutale Weise: Ein Offizier nach dem anderen verschwand spurlos. Erst waren es Hauptmänner, später Generäle. Die Tredanier wussten weder, was sie angriff, noch wie sie sich schützen sollten.
