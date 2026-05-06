@@ -1,0 +1,4 @@
+Trotz ihrer bescheidenen Zahl konnte noch keine Armee die Truppen der [[Anderlinge]] überwinden. Im unwegsamen Gelände des Randgebirges ist es schwer große Truppen zu bewegen und die [[Anderlinge]] haben aus der Not eine Tugend gemacht und koordinieren viele kleinere Truppen, anstatt zu versuchen ein großes Heer aufzustellen.
+Die Halben Schwerter
+Kaum etwas ist so verlacht und gleichzeitig gefürchtet wie die „Halben Schwerter“, das berühmteste Überfallkommando der Welt, geführt und gegründet von Fredik „Bruchschwert“ Dringg. Die Halben Schwerter zählen etwa 100 Halblinge, Gnome und [[Zwerge]].
+Sie kontrollieren die meisten Pässe ins Gebirge und haben diese im Laufe der Jahre mit Fallen und versteckten Wachposten gespickt. Jeder, der versucht ins Gebirge zu kommen, muss wohl oder übel an ihnen vorbei.

@@ -11,7 +11,7 @@ So spalteten sich ein beträchtlicher Teil der [[Elfen]] ab und siedelten in den
 Nach einigen Jahren nach dem offiziellen Ende der großen Vertreibung etablierten sich neue Machtstrukturen und Gebiete innerhalb des Randgebirges. 
 Das inzwischen gespaltene Elfenvolk unterschied, nahmen neue, zentrale Rollen im Randgebirge ein. 
 #### Hochelfen von Eisensteig
-Die Hochelfen, die überwiegend in Eisensteig geblieben waren, gründeten sehr bald eine Akademie, in der vor allem elfische Zauberei, Astronomie und ähnliche Wissenschaften unterrichtet wurden. 
+Die Hochelfen, die überwiegend in [[Eisensteig]] geblieben waren, gründeten sehr bald eine Akademie, in der vor allem elfische Zauberei, Astronomie und ähnliche Wissenschaften unterrichtet wurden. 
 Sie fanden auch einen Weg in die Eliten der Städte und gründeten zusammen mit Zwergen und Gnomen einen Rat, der dem Goldhaupt zur Seite stehen sollte.
 Böse Zungen behaupten, die Hochelfen wollten so die Macht der Gnome untergraben, um so das Randgebirge zu ihrem eigenen zu machen.
 #### Waldelfen der wilden Wälder

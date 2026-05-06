@@ -1,0 +1,2 @@
+Weiter im Süden befindet sich die Stadt Eisensteig. Hier leben viele [[Elfen]] und [[Zwerge]]. Eisensteig versorgt das [[Randgebirge]] mit Stahl und Bronze und wird auch die Zitadelle der Spitzohren genannt. Von Eisensteig aus operieren die Halben Schwerter, Herbstlinden und die [[Klippenläufer]], die legendären Überfallkommandos der [[Anderlinge]].
+Die Stadt hat etwa 15.000 Einwohner.

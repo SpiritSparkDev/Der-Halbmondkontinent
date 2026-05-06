@@ -1,3 +1,4 @@
+Das Feenreich (auch Feenwald oder Fayenwylt, je nach Text) ist eine Sphäre, die parallel zu [[Verim]] liegt und Teil von [[Madan]] ist.
 ## Kreaturen des Feenreiches
 ### [[Vetteln]]
 Vetteln sind alte Kreaturen, einige behaupten sogar, sie seien so alt wie Madan selbst. Ohne Zweifel steht jedoch, dass Vetteln überaus mächtige Kreaturen, Sammler von Geheimnissen und magischen Gegenständen sind.

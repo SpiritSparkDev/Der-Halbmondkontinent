@@ -4,7 +4,7 @@
 
 Nach dem Glauben der Zwerge und Gnome gab es einst drei gewaltige Kolosse, die das Universum beherrschten: den **Koloss des Himmels** ([[Phönix]]), den **Koloss der Meere** ([[Azaria]]) und den **namenlosen Koloss der Erde**.
 
-In einem uralten Verrat töteten die Kolosse des Himmels und der Meere ihren Bruder, den Erdkoloss, und zerstückelten seinen Leib. Aus seinen Leichenteilen erhoben sich drei neue Götter:
+In einem uralten Verrat töteten die Kolosse des Himmels und der Meere ihren Bruder, den Erdkoloss, und zerstückelten seinen Leib. Aus seinen Leichenteilen erhoben sich drei neue [[Götter]]:
 
 - **Derudur**, Gott der Erde, aus dem Fleisch des Kolosses
 - **Ero**, Gott der Erze, aus dem Blut des Kolosses
@@ -225,7 +225,7 @@ Im Gegensatz zu ihren Vettern, den Gnomen, die ebenfalls von Haliani und dem Erd
 - Gnome haben eine natürliche Affinität zu Illusionen
 - Manche Gnome können Stein und Metall spüren
 
-Dieser Unterschied ist unter Gelehrten beider Völker ein Rätsel. Manche glauben, die Zwerge hätten die Magie für ihre Stärke und Ausdauer eingetauscht. Andere glauben, es sei eine Strafe der Götter. Wieder andere sagen, es sei einfach der Lauf der Zeit.
+Dieser Unterschied ist unter Gelehrten beider Völker ein Rätsel. Manche glauben, die Zwerge hätten die Magie für ihre Stärke und Ausdauer eingetauscht. Andere glauben, es sei eine Strafe der [[Götter]]. Wieder andere sagen, es sei einfach der Lauf der Zeit.
 
 ## Die Bergzwerge
 
@@ -235,7 +235,7 @@ Die Bergzwerge leben im **[[Randgebirge]]**, gemeinsam mit [[Elfen]], Gnomen und
 
 #### Fronberg – Die geteilte Stadt
 
-**Fronberg** ist die wichtigste Zwergen- und Gnomenstadt im [[Randgebirge]]:
+**[[Fronberg]]** ist die wichtigste Zwergen- und Gnomenstadt im [[Randgebirge]]:
 
 **Struktur:**
 
@@ -260,12 +260,12 @@ Die Bergzwerge leben im **[[Randgebirge]]**, gemeinsam mit [[Elfen]], Gnomen und
 
 #### Eisensteig – Die Zitadelle der Spitzohren
 
-Eisensteig ist eine gemischte Stadt, in der viele **[[Elfen]] und Zwerge** leben:
+[[Eisensteig]] ist eine gemischte Stadt, in der viele **[[Elfen]] und Zwerge** leben:
 
 - Etwa **15.000 Einwohner**
 - Versorgt das [[Randgebirge]] mit **Stahl und Bronze**
 - Zwerge betreiben die Schmieden, [[Elfen]] die Verzierung
-- Basis der **Halben Schwerter**, **Herbstlinden** und **Klippenläufer**
+- Basis der **Halben Schwerter**, **Herbstlinden** und **[[Klippenläufer]]**
 - Zwerge und [[Elfen]] haben hier gelernt, zusammenzuarbeiten
 
 ### Charakter der Bergzwerge
@@ -526,8 +526,8 @@ Zwergische **Architektur** ist legendär:
 
 **Besondere Bauwerke:**
 
-- Die Brücken von Fronberg
-- Die Hallen von Eisensteig
+- Die Brücken von [[Fronberg]]
+- Die Hallen von [[Eisensteig]]
 - Die alten Minen im Süden (jetzt von [[Tredanien]] besetzt)
 
 ### Braukunst
@@ -591,7 +591,7 @@ Zwerge schätzen **Qualität über Quantität**:
 - Gemeinsame Religion
 - Gemeinsame Kultur in vielen Aspekten
 - Komplementäre Fähigkeiten (Zwerge: Kraft und Schmiedekunst, Gnome: Magie und Präzision)
-- Politisch oft uneins (siehe Fronberg), aber familiär verbunden
+- Politisch oft uneins (siehe [[Fronberg]]), aber familiär verbunden
 - Ehen zwischen Zwergen und Gnomen sind akzeptiert (wenn auch selten)
 
 ### Zu [[Elfen]]
@@ -604,7 +604,7 @@ Zwerge schätzen **Qualität über Quantität**:
     - Zwerge finden [[Elfen]] zu "luftig" und unzuverlässig
     - [[Elfen]] finden Zwerge zu starr und materialistisch
 - Zusammenarbeit im Bergstaat funktioniert gut
-- In Eisensteig haben beide Völker gelernt, ihre Stärken zu kombinieren
+- In [[Eisensteig]] haben beide Völker gelernt, ihre Stärken zu kombinieren
 
 ### Zu Halblingen
 

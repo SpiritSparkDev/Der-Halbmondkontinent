@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik/Sternhaf.md",
+                "file": "Feenreich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sternhaf"
+              "title": "Feenreich"
+            }
+          },
+          {
+            "id": "80d201aa37362d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politik/Tredanien.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tredanien"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik/Sternhaf.md",
+                "file": "Politik/Tredanien.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Sternhaf"
+              "title": "Gliederung von Tredanien"
             }
           }
         ],
@@ -173,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Neue Base erstellen": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
@@ -183,42 +199,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "03fffe946327b31e",
+  "active": "80d201aa37362d7b",
   "lastOpenFiles": [
+    "Völker/Menschen.md",
+    "Der Halbmondkontinent.md",
+    "Feenreich.md",
+    "Götter.md",
+    "Legenden und Berühmtheiten.md",
+    "Geografie/Randgebirge.md",
+    "Geografie/Landmassen.md",
+    "Völker/Zwerge.md",
+    "Politik/Tredanien.md",
+    "Geografie/Thedos.md",
+    "Monster.md",
+    "Orks.md",
+    "Kosmologie/Götter/Azaria.md",
+    "Kosmologie/Götter/Verim.md",
+    "Arkanes und Magie.md",
+    "Völker/Kultur und Religion/Religion der Halblinge.md",
+    "Völker/Kultur und Religion/Zwergisch-Gnomischer Glaube.md",
+    "Völker/Kultur und Religion/Elfischer Glaube.md",
+    "Völker/Kultur und Religion",
+    "Völker/Organisationen/Klippenläufer.md",
+    "Völker/Organisationen/Militär der Anderlinge.md",
+    "Völker/Organisationen",
+    "Politik/Der Bergstaat der Anderlinge/Bilzen.md",
+    "Politik/Der Bergstaat der Anderlinge/Eisensteig.md",
+    "Politik/Die Stadtstaaten/Die Stadtstaaten des Südens.md",
+    "Politik/Der Bergstaat der Anderlinge/Fronberg.md",
+    "Politik/Die Stadtstaaten",
+    "Politik/Der Bergstaat der Anderlinge",
+    "Politik/Der Bergstaat der Anderlinge/Bergstaat der Anderlinge.md",
+    "Politik/Gyrath.md",
     "Obsidian_DnD_Halbmondkontinent",
     "Bilder/Sternhaf_1764302982_697.jpg",
     "Bilder",
     "Neuer Ordner",
-    "Kosmologie/Nekropole.md",
-    "Kosmologie/Götter/Atkari.md",
-    "Politik/Deneb.md",
-    "Völker/Elfen.md",
-    "Kosmologie/Götter/Azaria.md",
-    "Kosmologie/Traumwelt.md",
-    "Kosmologie/Götter/Nahili.md",
-    "Feenreich.md",
-    "Kosmologie/Götter/Thumos.md",
-    "Kosmologie/Götter/Verim.md",
-    "Kosmologie/Götter/Zymia.md",
-    "Kosmologie/Der schwarze Ozean.md",
-    "Kosmologie/Die Weltenkugel.md",
-    "Kosmologie/Ethyos.md",
-    "Kosmologie/Phönix-Nest.md",
-    "Kosmologie/Rakanis.md",
-    "Kosmologie/Totenhöhlen.md",
-    "Politik/Viromeer.md",
-    "Politik/Tredanien.md",
-    "Politik/Thronstadt St. Jezma.md",
-    "Politik/Sternhaf.md",
-    "Politik/Die Stadtstaaten des Südens.md",
-    "Völker/Anderlinge.md",
-    "Völker/Menschen.md",
-    "Völker/Zwerge.md",
     "Völker",
     "Kosmologie/Götter",
-    "Der-Halbmondkontinent",
-    "Politik",
-    "Geografie",
-    "Kosmologie"
+    "Der-Halbmondkontinent"
   ]
 }

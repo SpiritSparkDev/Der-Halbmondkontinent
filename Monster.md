@@ -1,0 +1,2 @@
+Als Monster bezeichnet man gemeinhin alle Kreaturen, die entweder selbst magisch sind oder durch Magie jedweder Art, erzeugt wurden. 
+Viele Tierarten wurden durch tredanische Gelehrte nachträglich als Monster eingestuft, als klar wurde, dass es sich um verwilderte magische Experimente (z.B. der Eulenbär) oder durch göttliche Schöpfung erzeugte Kreaturen handelte.

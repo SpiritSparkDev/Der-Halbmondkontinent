@@ -1,0 +1,14 @@
+Die genaue Natur der Magie ist den [[Menschen]] in bis zum heutigen Tage nicht ganz klar. Feststeht ist, dass es sich wohl um eine Kraft handelt, die aus dem schwarzen Ozean herbei beschworen und durch Formeln und Zaubersprüche in eine feste Gestalt gepresst wird. Obwohl sich Magier seit Menschengedenken mit der Frage „Was ist Magie?“ beschäftigen, sind ihre Antworten so lückenhaft wie mannigfaltig.
+Die größte Frage dabei ist: Wie kommt die Energie vom schwarzen Ozean in die Welt der [[Menschen]]? Wo sind die Portale oder Übergänge? Gibt es überhaupt feste Punkte oder sickert die Magie überall durch die Realität?
+## Traditionelle Hermetik
+Die Hermetik ist eine alte, wenn auch nicht die älteste, Form der Zauberei. Sie basiert darauf, die Magie in ihrem Urzustand durch Anrufungen, magisch aktive Materialien und Gesten in diese Welt zu locken und hier einem bestimmten Zweck zuzuführen.
+Hermetik bindet den schwarzen Ozean als das aktive Element eines Zaubers, in eine feste Form. Diese Form ihm wird durch den Magier verliehen. 
+Formeln zum beschwören von verschiedenen Effekten wurden einst in Akademien gelehrt, die überall verstreut lagen und zum Teil hohe Ansehen genossen, bis die Zauberei für normale [[Menschen]] durch kaiserlichen Erlass untersagt wurde.
+## Alte Strömungen
+Die verbotenen „alten Strömungen“ beinhalten eine sehr viel direkte Form der Magie. Sie bezieht ihre Energie aus allem Lebendigen. Je mehr in ihrer unmittelbaren Umgebung blüht und gedeiht, desto mächtiger wirkt ihre Magie.
+Einst praktizierten vor allem die [[Elfen]] diese Form der Zauberei, aber auch viele menschenähnliche Kreaturen der Wälder: Waldschrate, Muhmen, Dryaden und Feen etwa.
+Auch [[Menschen]] konnten diese alten Strömungen erlernen. Diese nannten sich Druiden. Sie lebten zurückgezogen, boten allerdings Dienste und Hilfe für [[Menschen]] an, die sie darum baten.
+## Göttliche Magie
+Die streng reglementierten göttlichen Lehren werden ausschließlich in der Tempeluniversität von St. Jezma unterrichtet. Jedes Frühjahr werden dort die Roten Priester aus einem 5 Jahre dauernden Studium in die Tempel überall in [[Tredanien]] geschickt. 
+Außerhalb davon ist göttliche Magie strengstens verboten. Die wenigen Priester, die göttliche Magie außerhalb der staatlichen Tempel praktizieren tun dies für gewöhnlich nicht allzu lange und baumeln nur zu bald auf dem Henkersmarkt in St. Jezma. Die Tempelanlagen sind auch nur einem kleinen Teil des Pantheons geweiht: Der größte und prächtigste Tempel ist für [[Phönix]] vorgesehen, daneben der Tempel von [[Azaria]] und zwei kleine Anlagen für Karmina und Alande.
+Göttliche Magie außerhalb der [[Phönix]]-Tempel findet man vor allem außerhalb von [[Tredanien]] in den Nördlichen Königreichen und jenseits der freien Städte im Westen.

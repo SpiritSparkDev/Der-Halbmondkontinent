@@ -53,7 +53,7 @@ Die Gelehrten der Elfen beschäftigten sich vor allem mit:
 - Der **Natur der Realität** und ihren Grenzen
 - Den **alten Strömungen** – einer Form der Magie, die Energie aus allem Lebendigen zog
 
-Ihre Zauberer wussten um die Existenz dessen, was menschliche Kleriker als ihr Pantheon verehren, schrieben diesen Göttern aber weitaus weniger Willen und Vernunft zu. Für die Elfen waren [[Phönix]], [[Nahili]] und die anderen keine bewussten Götter, sondern kosmische Kräfte – mächtig, aber nicht notwendigerweise intelligent.
+Ihre Zauberer wussten um die Existenz dessen, was menschliche Kleriker als ihr Pantheon verehren, schrieben diesen Göttern aber weitaus weniger Willen und Vernunft zu. Für die Elfen waren [[Phönix]], [[Nahili]] und die anderen keine bewussten [[Götter]], sondern kosmische Kräfte – mächtig, aber nicht notwendigerweise intelligent.
 #### Gesellschaftsstruktur
 **Entgegen des allgemeinen Glaubens** hatten Elfen nie eine zentrale Regierung:
 - Es gab keine Elfenkönige im Sinne eines obersten Herrschers
@@ -261,7 +261,7 @@ Halbdrow werden noch mehr gehasst als Halbelfen:
 
 ### Der Animistische Glaube
 
-Der Elfenkult ist sehr viel älter als die Sagen der [[Menschen]]. Anders als die [[Menschen]] haben Elfen keine Götter im eigentlichen Sinn, sondern verehren die **Geister ihrer Umwelt**.
+Der Elfenkult ist sehr viel älter als die Sagen der [[Menschen]]. Anders als die [[Menschen]] haben Elfen keine [[Götter]] im eigentlichen Sinn, sondern verehren die **Geister ihrer Umwelt**.
 
 Nach dem Elfenglauben hat jedes Tier, jede Pflanze und jeder Stein einen eigenen Geist. [[Menschen]] würden das als Seele bezeichnen, aber die Elfen wissen, dass diese schwer zu erfassende Energie mehr ist als ein Bewusstsein in einem Körper – es ist die Essenz des Seins selbst.
 
@@ -274,7 +274,7 @@ Nach dem Elfenglauben hat jedes Tier, jede Pflanze und jeder Stein einen eigenen
 
 ### [[Leras]] als Ahnin
 
-Während Elfen keine Götter im menschlichen Sinne verehren, erkennen sie **[[Leras]]** als ihre Urmutter an:
+Während Elfen keine [[Götter]] im menschlichen Sinne verehren, erkennen sie **[[Leras]]** als ihre Urmutter an:
 - Sie ist keine Göttin, die man anbetet, sondern eine Kraft, die man respektiert
 - Bei Vollmond halten Elfen Vigilien
 - Manche Elfen pilgern ans Meer, um [[Leras]] nah zu sein
@@ -338,7 +338,7 @@ Für [[Tredanien]] sind sie Terroristen. Für die Elfen sind sie Freiheitskämpf
 
 Die meisten Elfen flohen nach der Eroberung ins **[[Randgebirge]]**, wo sie gemeinsam mit Zwergen, Gnomen und Halblingen den **Bergstaat der [[Anderlinge]]** gründeten:
 
-- Leben vor allem in **Eisensteig** und **Bilzen**
+- Leben vor allem in **[[Eisensteig]]** und **[[Bilzen]]**
 - Haben sich mit anderen Völkern arrangiert
 - Bewahren ihre Kultur, so gut es geht
 - Kämpfen weiter gegen [[Tredanien]]
@@ -439,4 +439,4 @@ Und dann gibt es jene, die flüstern: "Wenn wir nur wieder in die Traumlande gel
 
 Aber niemand weiß, wie.
 # Berühmte Elfen
-Die Erzmagierin von Eisensteig [[Rylia]].
+Die Erzmagierin von [[Eisensteig]] [[Rylia]].

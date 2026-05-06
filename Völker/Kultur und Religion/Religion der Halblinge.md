@@ -1,0 +1,2 @@
+Die Halblinge verehren nur einen Gott: [[Dadali]]. Er gilt unter den [[Halblinge]]n als das allmächtige, aber launische Wesen, dass alles geschaffen hat. Er gilt als trickreicher, wenn auch jähzorniger Gott, der um jeden Preis gütig gestimmt werden muss, bevor man große Taten vollbringt. 
+So gut wie jeder Halbling trägt ein Amulett von [[Dadali]] irgendwo bei sich. Es zu verlieren bedeutet 10 Jahre Pech. Umso wertvoller das Amulett, so ist der Glaube, desto wohlgesonnener ist [[Dadali]]. Darum tragen einige [[Halblinge]] Goldamulette, so groß wie ihre Hand oder größer. 

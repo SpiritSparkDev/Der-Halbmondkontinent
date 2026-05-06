@@ -1,0 +1,3 @@
+Die Klippenläufer bestehen zum größten Teil aus [[Elfen]] und Halblingen. Sie sind exzellente Kletterer und Bogenschützen. Die genaue Stärke der Kompanie ist dem tredanischen Spionen bis heute nicht bekannt. Die Klippenläufer sind bekannt dafür, Kundschafter der Tredanier zu überfallen, die versuchen die Pässe und wenigen Straßen, die es gibt, zu Kartografieren.
+Die Herbstlinden
+Einst als die Sturmlinden bekannt, eine ausschließlich elfische Eliteeinheit und Leibgarde der elfischen Hohepriester, sind eine nicht einmal 100 Mann starke Einheit aus meisterlichen Schwertkämpfern und Magiern. Seit es das Elfenreich nicht mehr gibt, haben sie der Sabbotage zugewandt und greifen Außenposten der Tredanier an, überfallen Kasernen und plündern Dörfer.
