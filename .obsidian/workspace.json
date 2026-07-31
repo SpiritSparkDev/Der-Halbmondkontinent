@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politik/Tredanien.md",
+                "file": "Götter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tredanien"
+              "title": "Götter"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politik/Tredanien.md",
+                "file": "Götter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Tredanien"
+              "title": "Gliederung von Götter"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "80d201aa37362d7b",
   "lastOpenFiles": [
+    "Politik/Tredanien.md",
     "Völker/Menschen.md",
     "Der Halbmondkontinent.md",
     "Feenreich.md",
@@ -209,7 +210,6 @@
     "Geografie/Randgebirge.md",
     "Geografie/Landmassen.md",
     "Völker/Zwerge.md",
-    "Politik/Tredanien.md",
     "Geografie/Thedos.md",
     "Monster.md",
     "Orks.md",
